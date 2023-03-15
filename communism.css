@@ -1,0 +1,36 @@
+ 
+ body{
+    height:fit-content;
+ }
+.leaders{
+    margin:auto;
+    text-align: center;
+    width:550px;
+    background-color: #df2626;
+}
+.country-information-1{
+ 
+   margin:auto;
+    display: grid;
+    grid-template-columns: 1fr  1fr ;
+    column-gap: 2%;
+     
+    margin-left:2%;
+    margin-right:2%;
+    text-align: center;
+}
+
+.collectivization,
+.internal-issues, 
+.Foreign-Entanglements,
+.reform{
+  background-color: #df2626;
+  margin-bottom:5%
+}
+h1{
+    margin:auto;
+}
+p{
+    width:500px;
+    margin:auto;
+}

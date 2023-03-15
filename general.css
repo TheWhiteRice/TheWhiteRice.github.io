@@ -1,0 +1,55 @@
+main{
+    margin-left:5%;
+    margin-right:5%;
+
+    background-color: #da0a0a;
+ }
+
+body{
+    background-color: #be1918;
+}
+ .body{
+    
+   width:500px;
+  margin:auto;
+ }
+
+ h1{
+    width:600px;
+    font-size: 50px;
+    color: #d4ce21;
+    font-weight: bold;
+ }
+ p{
+    font-size: 18px;
+    color:#d4ce21;
+ }
+
+ ul{
+    font-size: 20px;
+    color:#d4ce21;
+ }
+
+ .join-button{
+   width:800px;
+   height: 100px;
+    margin:auto;
+
+    margin-top : 60px;
+    margin-left: 28%;
+    color: #d4ce21;
+    font-weight: bold;
+    background-color: rgba(139, 22, 22, 0.623);
+  border-style: solid;
+  border:none;
+    font-size:50px;
+   
+
+    
+ }
+
+ 
+ .join{
+  
+   width:100%;
+ }

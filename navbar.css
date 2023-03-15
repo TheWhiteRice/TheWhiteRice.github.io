@@ -1,0 +1,21 @@
+nav{
+    display: flex;
+    height: 50px;
+    
+   
+}
+nav a {
+    justify-content: flex-start;
+     color:white;
+   justify-content: space-between;
+   width:100px;
+   flex:1fr;
+   margin-left:auto;
+   margin-right:0;
+}
+.navbar{
+    background-color: rgba(139, 22, 22, 0.623);
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}

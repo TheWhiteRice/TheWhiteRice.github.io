@@ -1,0 +1,38 @@
+ .who-we{
+    
+    text-align: center;
+    margin:auto;
+    width:600px;
+    background-color: #df2626;
+    margin-bottom: 25%;
+ }
+.image{
+    border-style: solid;
+    border-radius: 10px;
+}
+ .goals, 
+ .current{
+ 
+    background-color: #df2626;
+   vertical-align: top;
+    display:inline-block;
+    margin:auto;
+    margin-top:0px;
+    margin-bottom:0px;
+ }
+
+ .goals{
+    vertical-align: top;
+ }
+ .info{
+    
+    vertical-align: top;
+    display:grid;
+    grid-template-columns: 50% 50% ;
+    text-align: center;
+ }
+
+
+ 
+ 
+ 
